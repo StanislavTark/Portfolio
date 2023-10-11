@@ -1,6 +1,6 @@
 # Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
 
-[ipynb](ссылка)
+[ipynb](https://github.com/StanislavTark/Portfolio/blob/main/yandex_music_project/yandex_music_project.ipynb)
 
 ## Задачи проекта
 
