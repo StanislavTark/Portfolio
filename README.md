@@ -1,5 +1,5 @@
 # Portfolio
-
+✉️ Вы можете связаться со мной по  [![Telegram Badge](https://img.shields.io/badge/-stastark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stastark) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tarkovst@gmail.com)
 Проекты, написанные и защищенные на базе обучения Яндекс.Практикума
 
 | #    | Наименование проекта                | Задачи проекта                                                     | Навыки и инструменты                                                         |
