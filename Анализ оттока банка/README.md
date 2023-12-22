@@ -1,4 +1,4 @@
-# [Анализ оттока банка](https://github.com/StanislavTark/yandex_practicum/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0)
+# [Анализ оттока банка](https://github.com/StanislavTark/yandex_practicum/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/final_bank_scrooge.ipynb)
 [Презентация](https://drive.google.com/file/d/1XOXTQ4Aita9SbEJbQUlb_fRc3wSA6YcG/view?usp=sharing) \
 [Дашборд](https://public.tableau.com/app/profile/.56683918/viz/_17021300184400/sheet4?publish=yes)
 ## `✔️ Проект завершен`
